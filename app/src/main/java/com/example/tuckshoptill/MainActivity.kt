@@ -53,7 +53,7 @@ class MainActivity : ComponentActivity() {
 
 // =====================================================================
 // YOUR CODE STARTS HERE
-// Commit and push to GitHub at the end of every stage.
+// Commit and push to GitHub at the end of every stage!
 // =====================================================================
 
 // ---- Stage 3: formatPounds -------------------------------------------
