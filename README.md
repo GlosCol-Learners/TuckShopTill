@@ -2,7 +2,7 @@
 
 A back to basics app. You will build a till for the college tuck shop: item buttons, a running total, a basket, taking payment and a meal deal.
 
-Follow the **Back to Basics: Tuck Shop Till** task sheet. Each stage has three parts: **Learn it**, **Build it** and **Try it yourself**.
+Follow the **Back to Basics: Tuck Shop Till** task sheet. Each stage has three parts: **Learn it**, **Build it** and **Try it yourself**!
 
 ## Get started
 
