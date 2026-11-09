@@ -72,7 +72,7 @@ fun formatPounds(pence: Int): String {
 // Write fun mealDealDiscount(basket: List<String>): Int here.
 
 
-// ---- The app ---------------------------------------------------------
+// ---- The app ----------------------------------------------------
 // Stage 1: replace this whole function with the code on your task sheet.
 // After that, each stage adds to it.
 @Composable
@@ -129,7 +129,7 @@ fun TuckShopTillApp(modifier: Modifier = Modifier) {
     }
 }
 
-// ---- Preview ---------------------------------------------------------
+// ---- Preview ----------------------------------------------
 @Preview(showBackground = true)
 @Composable
 fun TuckShopTillAppPreview() {
