@@ -79,7 +79,7 @@ fun TuckShopTillApp(modifier: Modifier = Modifier) {
         Text("Total:${totalPence}p", fontSize =24.sp)
         Spacer(modifier = Modifier.height(16.dp))
         Button(onClick = { totalPence = totalPence + 70} ){
-            Text("Water 70p")
+            Text("Waterr 70p")
         }
         Button(onClick = { totalPence = totalPence + 80} ) {
             Text("Crisps 80p")
